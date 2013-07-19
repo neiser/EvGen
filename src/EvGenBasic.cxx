@@ -4,8 +4,8 @@
  * This routine is the event generator for GEANT4.  It outputs a root file
  * with an ntuple with the appropriate variable and names.
  *
- * 27.03.2010		DLH		First Version adapted from EvGenRes
- *
+ * 27.03.2010		DLH		First Version adapted from EvGenRes.
+ * 19.07.2013		DLH		Modified a bunch of stuff.
  */
 
 // This ifndef section allows you to use this code from the CINT command
